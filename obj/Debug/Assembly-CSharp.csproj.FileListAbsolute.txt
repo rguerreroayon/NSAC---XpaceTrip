@@ -1,0 +1,2 @@
+C:\Users\rob\Documents\GitHub\XpaceTrip\XpaceTrip777\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\rob\Documents\GitHub\XpaceTrip\XpaceTrip777\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
